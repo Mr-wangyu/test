@@ -1,0 +1,1 @@
+简述Spark SQL CLI启动的过程（从启动hadoop开始）
